@@ -5,7 +5,7 @@
 
 - 📝 I rarly write articles on [https://medium.com/@ganesh3075](https://medium.com/@ganesh3075)
 
-- 💬 Ask me about **UI Test Automation, Testing Frameworks **
+- 💬 Ask me about UI Test Automation, Testing Frameworks
 
 - 📫 How to reach me **ganesh3075@gmail.com**
 
