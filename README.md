@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 <h3 align="center">Consultant from India</h3>
 
+- 📚 Completed my gradution in computer engineering from WPU, Pune.
+
 - 🌱 I’m currently learning **Java, Spring, Design Patterns**
 
 - 📝 I rarely write articles on [Medium](https://medium.com/@ganesh3075)
