@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Design Patterns**
 
-- 📝 I rarly write articles on [https://medium.com/@ganesh3075](https://medium.com/@ganesh3075)
+- 📝 I rarely write articles on [https://medium.com/@ganesh3075](https://medium.com/@ganesh3075)
 
 - 💬 Ask me about UI Test Automation, Testing Frameworks
 
