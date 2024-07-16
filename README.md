@@ -3,7 +3,7 @@
 
 - 📚 Completed my gradution in computer engineering from WPU, Pune.
 
-- 🌱 I’m currently learning **Java, Spring, Design Patterns**
+- 🌱 I’m currently learning **Java, Design Patterns**
 
 - 📝 I rarely write articles on [Medium](https://medium.com/@ganesh3075)
 
